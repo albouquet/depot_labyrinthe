@@ -4,4 +4,4 @@
 [Prendre l'échelle](grr_nié.md)
 [Prendre le passage secret](les_chiottes_du_gobelin.md)
 
-![image](alligator.jpg)
+![image](l'alligator.jpg)
